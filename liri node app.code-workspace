@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "liri node app"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
